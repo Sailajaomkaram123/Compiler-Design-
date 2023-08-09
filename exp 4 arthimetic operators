@@ -1,4 +1,4 @@
-include<stdio.h> 
+#include<stdio.h> 
 #include<conio.h> 
 int main()
 {
@@ -61,4 +61,5 @@ int main()
 		default: 
 			printf("\n Not a operator");
 	}
+               return 0;
 }
